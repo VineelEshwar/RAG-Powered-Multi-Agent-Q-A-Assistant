@@ -1,6 +1,4 @@
-Absolutely! Based on your final list of dependencies and the previously reviewed code structure, here is the **refined and complete `README.md`** — ready for direct use in your GitHub repo:
 
----
 
 # 🧠 RAG-Powered Multi-Agent Q\&A Assistant
 
@@ -152,8 +150,7 @@ Result: Noun: the ability to understand others...
 ## 👤 Author
 
 **B. M. Vineel Eshwar**
+
 Internship Assignment Submission
 
----
 
-You can now copy and paste this `README.md` into your GitHub repo. Let me know if you'd like me to help polish the CLI output or enhance the UI to show tool info or retrieved context!
