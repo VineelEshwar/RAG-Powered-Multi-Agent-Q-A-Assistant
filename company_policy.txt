@@ -1,8 +1,0 @@
-Acme Corp allows all full-time employees to work remotely up to 3 days per week. Managers must approve remote work schedules.
-
-Expectations:
-- Employees must be available online from 9 AM to 5 PM.
-- Video meetings should be attended from a quiet, professional environment.
-- All work tools (Slack, Jira, GitHub) should be actively used.
-
-Violation of this policy may lead to performance review.
