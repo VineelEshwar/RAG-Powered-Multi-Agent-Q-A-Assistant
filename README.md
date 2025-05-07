@@ -49,7 +49,7 @@ This project is a multi-agent, Retrieval-Augmented Generation (RAG) based assist
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com//RAG-Powered-Multi-Agent-Q-A-Assistant.git
+git clone https://github.com/VineelEshwar/RAG-Powered-Multi-Agent-Q-A-Assistant
 cd RAG-Powered-Multi-Agent-Q-A-Assistant
 ```
 
